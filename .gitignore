@@ -1,0 +1,9 @@
+.idea
+Include
+Lib
+Scripts
+vendas
+db.sqlite3
+manage.py
+principal.py
+pyvenv.cfg

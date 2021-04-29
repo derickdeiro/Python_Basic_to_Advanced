@@ -1,0 +1,3 @@
+[15588:19360:0204/123024.977:ERROR:device_event_log_impl.cc(211)] [12:30:24.977] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[15588:19360:0204/123024.978:ERROR:device_event_log_impl.cc(211)] [12:30:24.978] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[15588:19360:0204/123040.497:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
